@@ -31,7 +31,7 @@ def bibtex_to_md(input_dir,
                         i['pages'] if 'pages' in i else ''
                     )
                     if 'url' in i:
-                        entry = '[{}]({})'.format(entry, i['url'])
+                        entry = '[{}]({})'.format(entry, i['url'].split(' ')[0])
                     md += '{}. '.format(idx + 1)
                     md += entry
                     md += '\n'
