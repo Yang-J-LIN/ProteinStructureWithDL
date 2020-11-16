@@ -3,6 +3,24 @@ ProteinStructureWithDL aims to take an overview of the application of deep learn
 
 ## Papers and codes
 
+### Featured papers
+
+#### Protein structure prediction
+
+#### Protein structure design
+
+### Recent papers
+
+#### Protein structure prediction
+
+#### Protein structure design
+
+### Old papers
+
+#### Protein structure prediction
+
+#### Protein structure design
+
 1. [Yang, Jianyi and Anishchenko, Ivan and Park, Hahnbeom and Peng, Zhenling and Ovchinnikov, Sergey and Baker, David. "Improved protein structure prediction using predicted interresidue orientations". *Proceedings of the National Academy of Sciences of the United States of America*, 117.3 (2020): 1496--1503](https://www.pnas.org/content/117/3/1496)
 2. [Gainza, P and Sverrisson, F and Monti, F and Rodol{\`{a}}, E and Boscaini, D and Bronstein, M M and Correia, B E. "Deciphering interaction fingerprints from protein molecular surfaces using geometric deep learning". *Nature Methods*, 17.2 (2020): 184--192](https://doi.org/10.1038/s41592-019-0666-6)
 3. [Adhikari, Badri. "A fully open-source framework for deep learning protein real-valued distances". *Scientific Reports*, 10.1 (2020): ](https://doi.org/10.1038/s41598-020-70181-0)
