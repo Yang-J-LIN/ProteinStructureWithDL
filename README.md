@@ -12,6 +12,7 @@ ProteinStructureWithDL aims to take an overview of the application of deep learn
 #### Protein representation
 
 1. Rao, Roshan and Liu, Jason and Verkuil, Robert and Meier, Joshua and Canny, John F. and Abbeel, Pieter and Sercu, Tom and Rives, Alexander. "MSA Transformer". **, . (2021): 
+2. Vig, Jesse and Madani, Ali and Varshney, Lav R. and Xiong, Caiming and Socher, Richard and Rajani, Nazneen Fatema. "BERTology Meets Biology: Interpreting Attention in Protein Language Models". **, . (2020):
 
 ### Recent papers
 
